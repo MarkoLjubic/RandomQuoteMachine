@@ -1,0 +1,9 @@
+.cool-button {
+  border: 0;
+  color: white;
+  cursor: pointer;
+}
+
+.cool-button:hover {
+  opacity: 0.9;
+}
